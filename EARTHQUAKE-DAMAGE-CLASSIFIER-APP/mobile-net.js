@@ -4,8 +4,8 @@ let fileUpload = document.getElementById('uploadImage')
 let img = document.getElementById('image')
 let boxResult = document.querySelector('.box-result')
 
-        
-        let progressBar = 
+
+let progressBar = 
             new ProgressBar.Circle('#progress', {
             color: 'limegreen',
             strokeWidth: 10,
@@ -21,7 +21,7 @@ let boxResult = document.querySelector('.box-result')
             return data;
         }
 
-         // here the data will be return.
+         // here the data will be returned.
         
 
         // Initialize/Load model

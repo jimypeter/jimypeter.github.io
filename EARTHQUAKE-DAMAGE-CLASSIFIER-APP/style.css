@@ -23,7 +23,7 @@ h1 {
 }
 
 h1 span{
-    color: limegreen;
+    color: #bb6d06;
 }
 
 hr{
@@ -31,7 +31,7 @@ hr{
 }
 
 .github-fork-ribbon:before{
-    background: limegreen !important;
+    background: #c95000 !important;
 }
 
 
@@ -81,7 +81,7 @@ img{
 
 .progress > .inner {
     position: absolute;
-    color: limegreen; 
+    color: #bb6d06; 
 }
 
 .progress > svg {
@@ -90,7 +90,7 @@ img{
 }
 
 .init_status{
-    background: limegreen;
+    background: #bb6d06;
     color: white;
     padding: 10px;
     border-radius: 10px;

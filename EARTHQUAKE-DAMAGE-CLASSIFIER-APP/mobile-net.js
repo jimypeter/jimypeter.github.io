@@ -7,7 +7,7 @@ let boxResult = document.querySelector('.box-result')
 
 let progressBar = 
             new ProgressBar.Circle('#progress', {
-            color: 'limegreen',
+            color: '#bb6d06',
             strokeWidth: 10,
             duration: 2000, // milliseconds
             easing: 'easeInOut'
